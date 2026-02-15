@@ -1,0 +1,13 @@
+.auth-form {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+.auth-form input {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+}
